@@ -38,7 +38,7 @@
 
 [Pvz](https://github.com/Ta1de/pvz)\
 [Backend2](https://github.com/Ta1de/backend2)\
-[CoinTranser](https://github.com/Ta1de/CoinTransfer)
+[CoinTranswer](https://github.com/Ta1de/CoinTransfer)
 
 ---
 
